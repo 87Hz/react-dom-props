@@ -1,0 +1,6 @@
+/.editorconfig
+/.prettierignore
+/.prettierrc.js
+/babel.config.js
+/tsconfig.json
+/yarn.lock
