@@ -1,6 +1,6 @@
 {
   "name": "react-dom-props",
-  "version": "2.0.0-rc2",
+  "version": "2.0.0",
   "main": "dist/index.js",
   "scripts": {
     "dist": "yarn clean && yarn build && yarn build:type",
