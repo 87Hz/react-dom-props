@@ -13,7 +13,8 @@ yarn add react-dom-props
 ### Usage
 
 ```jsx
-import { pickHtmlProps, pickSvgProps } from 'react-dom-props';
+import { pickHtmlProps } from 'react-dom-props/dist/pickHtmlProps';
+import { pickSvgProps } from 'react-dom-props/dist/pickSvgProps';
 
 export const MyComponent = props => {
   // some logic here
